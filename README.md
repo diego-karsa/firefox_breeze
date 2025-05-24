@@ -18,7 +18,7 @@ A Firefox `userChrome.css` theme designed to match the KDE Breeze Dark style for
 
 ## Further steps
 - To make the colors match, apply [this color theme](https://color.firefox.com/?theme=XQAAAAKHAQAAAAAAAABBqYhm849SCia73laEGccwS-xMDPr6BEKkxUfveH6amcirjQTFhOx-oGyH8feq4wHD19q59yNlbgMyV3ROhwWCDRm2mv6MXmUe6P8QV9imjXCKi55ZYBJzJuiIvT5RgClNJgRZVp71HH7foWOKi1Xsr_mj7f7ySD6BjvGyjnMKfO0Wu_97eigknp8b-QpuYltM78KJKeaqG2q0qSdJKbhtwpZX4C46_shaDME5t6-HAkEPwZVujzdqsJj5FYYCdICnBC5Q47dCJNezk0zXP5GsyCaXf-hF3kCi6MXGlGzywzhlw2__2UueAA) using [Firefox Color](https://color.firefox.com/).
-- For round corners, use: [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners)
+- For rounded bottom corners, use: [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners)
 
 ## 📸 Preview
 
