@@ -1,0 +1,66 @@
+/* Remove original FF buttons */
+.titlebar-button .toolbarbutton-icon {
+  background: none !important;
+  -moz-context-properties: none !important;
+}
+
+/* CLOSE button */
+.titlebar-close .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-close-dark.svg") !important;
+}
+.titlebar-close:hover .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-close-hover-dark.svg") !important;
+}
+.titlebar-close:active .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-close-active-dark.svg") !important;
+}
+
+/* MINIMIZE button */
+.titlebar-min .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-minimize-dark.svg") !important;
+}
+.titlebar-min:hover .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-minimize-hover-dark.svg") !important;
+}
+.titlebar-min:active .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-minimize-active-dark.svg") !important;
+}
+
+/* MAXIMIZE button */
+.titlebar-max .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-maximize-dark.svg") !important;
+}
+.titlebar-max:hover .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-maximize-hover-dark.svg") !important;
+}
+.titlebar-max:active .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-maximize-active-dark.svg") !important;
+}
+
+/* UNMAXIMIZE button */
+.titlebar-restore .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-unmaximize-dark.svg") !important;
+}
+
+.titlebar-restore:hover .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-unmaximize-hover-dark.svg") !important;
+}
+
+.titlebar-restore:active .toolbarbutton-icon {
+  list-style-image: url("titlebuttons/titlebutton-unmaximize-active-dark.svg") !important;
+}
+
+/* Icon Size */
+.titlebar-button .toolbarbutton-icon {
+  width: 21px !important;
+  height: 21px !important;
+}
+
+/* Padding */
+.titlebar-close {
+  margin-left: 3px !important;
+  margin-right: 1px !important; /* Increase space to the right of Close */
+}
+.titlebar-min {
+  margin-right: 1px !important; /* Increase space to the left of Minimize */
+}
